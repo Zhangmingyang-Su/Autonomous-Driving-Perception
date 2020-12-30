@@ -46,3 +46,4 @@ For the temporal data, such as the transformation of the color, background, dist
 2. Run ```object_detection.py``` to implement yolov3 model.
 3. Run ```data_evaluate_segmentation.py``` to see performance change based on different frame rate(manually).
 4. For orginal data vs temporal data analysis, Run ```data_evaluate_segmentation.py``` to see performance change in terms of Class IOU Metric.
+5. More information, check course paper[course paper](pic/Perception%20Task%20-%20Semantic%20Segmentation%20and%20Object%20Detection%20in%20Autonomous%20Driving.pdf) 

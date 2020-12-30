@@ -22,4 +22,8 @@ After Implementing DeepLab model, The driving scene is segmented into 16 categor
 ![](pic/segmentation_result.gif)
 
 ### Segmentation result based on different frame rates
+![](pic/different%20frame%20rate%20analysis.png)
+From the graph, it's easy to figure out the higher frame rate is, the better performance is. There are lots of things happen in a short-time, in order to ensure safe driving condition, we need to capture more information from frame to frame.
 
+### Segmentation result of original data vs temporal Data
+![]()

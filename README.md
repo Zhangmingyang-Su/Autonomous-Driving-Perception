@@ -30,3 +30,11 @@ From the graph, it's easy to figure out the higher frame rate is, the better per
 ![](pic/original%20vs%20temporal.png)
 
 For the temporal data, such as the transformation of the color, background, distortion, etc. All of these frames are not independent, so, we sum the current frame result and previous frame result to smooth the prediction. By using the temporal data, the performance is a little bit better than the original one without the temporal data.
+
+## Object Detection
+### YOLO-V3
+![](pic/yolov3.png)
+
+### Object Detection Result
+![](pic/frame 1.png)
+![](pic/frame 2.png)

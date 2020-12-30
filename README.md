@@ -14,4 +14,7 @@ This repository is for Computer Vision course project at George Washington Unive
 
 ## Semantic Segmentation
 ### DeepLab Model Architecture
-![](DeepLab%20Architecture.png)
+![](pic/DeepLab%20Architecture.png)
+
+### Segmentation Result
+After Implementing DeepLab model, The driving scene is segmented into 16 categories which represented by different colors in real-time.

@@ -13,3 +13,5 @@ This repository is for Computer Vision course project at George Washington Unive
 * yolov3.weights
 
 ## Semantic Segmentation
+### DeepLab Model Architecture
+![](DeepLab%20Architecture.png)

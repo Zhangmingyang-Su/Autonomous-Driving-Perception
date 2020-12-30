@@ -10,7 +10,7 @@ This repository is for Computer Vision course project at George Washington Unive
 * OpenCV
 * yolov3.cfg
 * coco.names
-* yolov3.weights
+* yolov3.weights([Link becasue of large file](https://www.kaggle.com/valentynsichkar/yolo-coco-data?select=yolov3.cfg))
 
 ## Semantic Segmentation
 ### DeepLab Model Architecture

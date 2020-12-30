@@ -1,4 +1,4 @@
-# Self-Driving Cars - Semantic Segmentation and Object Detection
+# Autonomous Driving Perception - Semantic Segmentation and Object Detection
 This repository is for Computer Vision course project at George Washington University, The main purpose of this project is trying to complete Autonomous Driving Perception tasks to ensure safe driving condition.
 
 ## Team Member

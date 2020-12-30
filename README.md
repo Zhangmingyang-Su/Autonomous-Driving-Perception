@@ -21,10 +21,12 @@ After Implementing DeepLab model, The driving scene is segmented into 16 categor
 ![](pic/mit-driveSeg.gif) 
 ![](pic/segmentation_result.gif)
 
-### Segmentation result based on different frame rates. 
-![](pic/different%20frame%20rate%20analysis.png). 
+### Segmentation result based on different frame rates 
+![](pic/different%20frame%20rate%20analysis.png) 
 
 From the graph, it's easy to figure out the higher frame rate is, the better performance is. There are lots of things happen in a short-time, in order to ensure safe driving condition, we need to capture more information from frame to frame.  
 
-### Segmentation result of original data vs temporal Data.
+### Segmentation result of original data vs temporal Data
 ![](pic/original%20vs%20temporal.png)
+
+For the temporal data, such as the transformation of the color, background, distortion, etc. All of these frames are not independent, so, we sum the current frame result and previous frame result to smooth the prediction. By using the temporal data, the performance is a little bit better than the original one without the temporal data.

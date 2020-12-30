@@ -37,4 +37,4 @@ For the temporal data, such as the transformation of the color, background, dist
 
 ### Object Detection Result
 ![](pic/frame%201.png)
-![](pic/frame%201.png)
+![](pic/frame%202.png)

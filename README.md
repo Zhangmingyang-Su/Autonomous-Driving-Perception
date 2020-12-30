@@ -20,3 +20,6 @@ This repository is for Computer Vision course project at George Washington Unive
 After Implementing DeepLab model, The driving scene is segmented into 16 categories which represented by different colors in real-time.  
 ![](pic/mit-driveSeg.gif) 
 ![](pic/segmentation_result.gif)
+
+### Segmentation result based on different frame rates
+

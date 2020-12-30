@@ -45,4 +45,4 @@ For the temporal data, such as the transformation of the color, background, dist
 1. Download dataset from Mit-DriveSeg.
 2. Run ```object_detection.py``` to implement yolov3 model.
 3. For frame rate analysis, Run ```data_evaluate_segmentation.py``` to see performance change based on different frame rate.
-
+4. For orginal data vs temporal data analysis, Run ```data_evaluate_segmentation.py``` to see performance change in terms of Class IOU Metric.
